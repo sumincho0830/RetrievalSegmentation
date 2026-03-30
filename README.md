@@ -5,8 +5,14 @@
 pip install uv
 ```
 ```
-./venv/Script/activate
-```
-```
 uv sync
 ```
+For Windows
+```
+./venv/Script/activate
+```
+For Linux
+```
+source .venv/bin/activate
+```
+
